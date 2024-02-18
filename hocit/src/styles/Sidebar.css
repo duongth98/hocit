@@ -1,0 +1,18 @@
+.sidebar {
+    width: 200px; /* Adjust as needed */
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #f0f0f0; /* Adjust as needed */
+  }
+  
+  .menu-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .menu-item img {
+    margin-right: 10px;
+  }
